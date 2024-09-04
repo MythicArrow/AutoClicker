@@ -1,1 +1,1 @@
-An autoclicker made with pyhton that has changeable settings.
+An autoclicker made with python that has changeable settings.
